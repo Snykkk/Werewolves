@@ -1,0 +1,8 @@
+name: MaSoi
+version: 1.0.0
+author: Snykkk
+main: Snykkk.Game
+commands:
+  masoi:
+    description: Danh sach lenh game ma soi
+    aliases: [ms]

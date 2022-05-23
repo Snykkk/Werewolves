@@ -1,0 +1,74 @@
+phienban:
+  ver: 1.0.0
+  author: _DinhThi_
+thongtin:
+  - "&f==============="
+  - ""
+  - "&b %player%"
+  - "&eThắng: &b%wins%"
+  - "&eThua: &b%close%"
+  - ""
+  - "&f==============="
+Lobby: world 0.0 0.0 0.0 0.0 0.0
+time:
+  starting: 10
+  ending: 10
+  started: 10
+  baove: 15
+  soi: 30
+  tientri: 15
+  phuthuy: 15
+  danlang: 60
+  thosan: 15
+  skip: 10
+msg:
+  prefix: "&7[&e&lMA SÓI&7] "
+  created: "&aTạo phòng thành công tại"
+  deleted: "&cXóa thành công %ARENA%"
+  not-exist: "&c%ARENA% không tồn tại"
+  exist: "&c%ARENA% đã tồn tại"
+  leave: "&cBạn đã rời phòng"
+  pls: "&cVui lòng nhập ID phòng"
+  death: "&e%player% &7(%role%) &fđã chết!"
+  bc-win: " &fđã giành chiến thắng!"
+  protection: "&e%player% &fbị chết nhưng may mắn được bảo vệ"
+  saved: "&e%player% &fbị chết nhưng may mắn được cứu"
+  seer: "&e%player% &flà &e%role%"
+  set:
+    lobby: "&aĐặt sảnh chờ cho %ARENA% thành công"
+    spawn: "&aĐặt sảnh chính thành công"
+  ingame: "&aBạn đang ở trong phòng"
+  notingame: "&cBạn không ở trong phòng"
+  nullroom: "&cKhông tìm thấy phòng"
+  full: "&cPhòng đã đầy"
+  ingame: "&cPhòng đang chơi"  
+  addspawn: "&aThêm địa điểm chờ %SPAWN% cho %ARENA% thành công"
+  waiting:
+    pjoin: "&a%player% đã tham gia phòng &7(&e%room%/12&7)"
+    pleft: "&e%player% đã rời phòng &7(&e%room%/12&7)"
+  starting: "&aĐã đủ người chơi trò chơi sẽ bắt đầu trong %sec% giây."
+  stoping: "&cĐiếm ngược bị hủy do không đủ người chơi"
+  cooldown: "&aTrò chơi sẽ bắt đầu trong %sec% giây"
+  started: "&aTRÒ CHƠI ĐÃ BẮT ĐẦU"
+  end: "&cTRÒ CHƠI ĐÃ KẾT THÚC"
+  winner: "&a%player% đã chiến thắng &7(&e%ARENA%&7)"
+  victim: "&aBạn chọn %player%"
+  turn:
+    you: "&7Đến lượt của bạn"
+    other: "&7Đến lượt của %role%"
+    guard: "&bBẢO VỆ"
+    werewolves: "&4SÓI"
+    seer: "&5TIÊN TRI"
+    witch: "&aPHÙ THỦY"
+    villager: "&2DÂN LÀNG"
+  time:
+    night: "&c&lTrời bắt đầu tối trong %sec% giây ..."
+    today: "&f&lTrời đang sáng dần (%sec% giây) ..."
+    baove: "&b&lLượt của bảo vệ (%sec% giây)"
+    tientri: "&5&lLượt của tiên tri (%sec% giây)"
+    phuthuy: "&a&lLượt của phù thủy (%sec% giây)"
+    thosan: "&6&lThợ săn đang nhắm bắn (%sec% giây)"
+    soi: "&4&lSói đang đi săn (%sec% giây) ..."
+    danlang: "&2&lBan ngày (%sec% giây) ..."
+    end: "&e&lVề sảnh trong %sec% giây ..."
+    chotphieu: "&2&lChốt phiếu bầu (%sec% giây)"
